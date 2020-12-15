@@ -17,12 +17,12 @@ The analysis seeks to convince stakeholders/investors that Bike-Sharing in Des M
 3) Number of bike trips for each type of user and gender everyday of the week.  
 
 Results:
-*Bike-Sharing program is a viable business in Des Moines
-*Analysis whows that Male riders use the service much more often and longer than then female riders.
-*Peak hours for male riders are Thurs 8am to 9 am, 4-6 pm
-*Second most usage are male riders are on Mon and Tues 5-6 pm.
-*Second most usage are male riders on Thurs 8 to 9 am.
-*Female riders ride less frequent than the least use time and frequency for male riders.
+1) Bike-Sharing program is a viable business in Des Moines
+2) Analysis shows that Male riders use the service much more often and longer than then female riders.  
+3) Peak hours for male riders are Thurs 8am to 9 am, 4-6 pm
+4) Second most usage are male riders are on Mon and Tues 5-6 pm.
+5) Second most usage are male riders on Thurs 8 to 9 am.
+6) Female riders ride less frequently than the least use time and frequency for male riders.
 
 
 
